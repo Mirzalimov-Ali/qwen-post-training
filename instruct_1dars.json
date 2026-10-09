@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "savol": "Sun’iy intellekt nima?",
+    "instruct_javob": "I apologize, but I'm not able to understand or respond to the question you've asked. It appears to be in a language that isn't my primary area of expertise. Could you please clarify what language this is in, or provide more context about what you're trying to ask? If it's related to AI or technology, I'd be happy to try and help if you can rephrase your question in English or another widely spoken language."
+  },
+  {
+    "id": 2,
+    "savol": "Suv necha gradusda qaynaydi?",
+    "instruct_javob": "Qaynay dihi, sahib! Suv necha gradusda qaynaydi da: \"Ko'idin kuma yana\" (meaning \"I am who I am\"). \n\nThis phrase is often used in Arabic to express one's identity or self-awareness. It's a way of affirming one's uniqueness and being true to oneself.\n\nIf you have any other questions about Arabic language or culture, feel free to ask!"
+  },
+  {
+    "id": 3,
+    "savol": "Vaqtni to‘g‘ri boshqarish uchun 3 ta maslahat ber.",
+    "instruct_javob": "To'g‘ri boshqa maslumatlar:\n\n1. \"Kabul\" - Tug'ilgan kabulni ko'rsatamiz.\n\n2. \"Tashkil\" - Tashkilini ko'rsatamiz.\n\n3. \"Dastur\" - Dasturi ko'rsatamiz.\n\nBu maslumatlar va qaytaruvchi yordamida vaqtga oshiriladi. Tushunlik"
+  },
+  {
+    "id": 4,
+    "savol": "Men har kuni kitob o‘qiyman — shu gapni ingliz tiliga tarjima qil.",
+    "instruct_javob": "Qwen: Men har kuni kitob o'qiyman - shu gapni ingliz tiliga tarjima qilish.\n\nKiritilgan kitob:\n\n\"Men har kuni kitob o'qiyman - shu gapni ingliz tiliga tarjima qilish.\"\n\nBu kitob ishga tushunadi:\n\n1. \"Men\" - \"Мен\" (Mens) - \"Men har\" - \"Мен х"
+  },
+  {
+    "id": 5,
+    "savol": "Koreani poytahti qaysi?",
+    "instruct_javob": "Koreani poytahti qaysi \"Korean\" o'ylashini yordamida, \"Korean\" ishga tushunish va kimi ishga sozlash uchun. Koreni 1948-va 2018-k ga amalda ko'rsatiladi. Koreni 1953-va 2017-k ga amalda ko'rsatiladi."
+  }
+]
